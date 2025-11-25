@@ -1021,5 +1021,6 @@ def returntomenu(message):
             main()
             break
 setup_sql_assets()
+main()
 
 cur.close()
